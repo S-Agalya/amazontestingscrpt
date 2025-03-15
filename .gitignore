@@ -1,0 +1,27 @@
+# Ignore Maven target directory
+target/
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Eclipse/IntelliJ IDEA project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Ignore bin folder (for compiled Java files)
+bin/
+
+# Ignore test reports
+surefire-reports/
+test-output/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
